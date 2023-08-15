@@ -1,11 +1,12 @@
 #include "main.h"
-	/**
-	 * main - print _putchar
-	 * is Written by DeMo55
-	 * Return: 0
-	 */
 
-	int main(void)
+/**
+ * main - print _putchar
+ * Is Written by DeMo55
+ * Return: 0
+*/
+
+int main(void)
 	{
 	_putchar('_');
 	_putchar('p');
